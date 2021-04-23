@@ -1,0 +1,39 @@
+body
+{
+  color: white;
+  background: #92a0c2;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+label{
+  font-family: 'Comfortaa', cursive;
+}
+p{
+  font-family: 'Nova Flat', cursive;
+}
+h3{
+  font-family: 'Macondo Swash Caps', cursive;
+}
+button{
+  font-family: 'Rubik', sans-serif;
+}
